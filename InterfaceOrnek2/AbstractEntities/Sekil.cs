@@ -11,3 +11,4 @@ namespace InterfaceOrnek2.AbstractEntities
         public string SekilAdi { get; set; }
     }
 }
+
